@@ -1,5 +1,4 @@
 # Linklytics
-# URL Shortener with Authentication & Analytics
 
 A secure and scalable URL Shortener built with Spring Boot.  
 This application enables users to shorten long URLs, track analytics, and manage URLs with JWT-based authentication.
